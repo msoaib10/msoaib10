@@ -44,6 +44,6 @@
 
 <br clear="both">
 
- <img src="Aspiring Data Analytics | BE Computer Science and Engineering from India" /> 
+ <img src="" /> 
 
 ###
